@@ -15,3 +15,6 @@ The three ops (JacobEdelman, tb10, nickolas360) decide matters relating to kicki
 
 ## Bots
 Log in with password "backtickbots:MwT7v3Cmsa" and test in ##\`bots. Please don't spam #\`.
+
+## QuoteDB
+See [nkf1's site](http://me.zippynk.com/backtick_irc_qdb.txt).
