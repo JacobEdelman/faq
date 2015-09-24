@@ -1,5 +1,5 @@
 
-#` FAQ
+#\` FAQ
 
 ## Discussion Rules
  - Do discuss CS, nerdy ideas, or topics related to your life.
@@ -12,3 +12,6 @@
 
 ## Political System
 The three ops (JacobEdelman, tb10, nickolas360) decide matters relating to kicking, banning, ect. If two ops disagree, the remaining op can cast the deciding vote for the short term, and the members of the channel can vote to deteremine long term decisions. We don't want to actually have this happen, so ops should work to reach a decision on their own. 
+
+## Bots
+Log in with password "backtickbots:MwT7v3Cmsa" and test in ##\`bots. Please don't spam #\`.
