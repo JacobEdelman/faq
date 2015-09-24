@@ -18,3 +18,6 @@ Log in with password "backtickbots:MwT7v3Cmsa" and test in ##\`bots. Please don'
 
 ## QuoteDB
 See [nkf1's site](http://me.zippynk.com/backtick_irc_qdb.txt).
+
+## IRC Topic
+The topic is settable by anybody but you should not delete the link to the faq in it and should be respectful of other people who change the topic.
