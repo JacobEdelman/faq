@@ -1,9 +1,6 @@
 
 #\` FAQ
 
-## History
-On the eve of creation, __#\`__ sprang into creation, straight from a `git init` by Linus Torvalds. Raised by Charles Babbage and Ada Lovelace, the inhabitants of __#`__ were trained at an early age in the art of bug fighting by Grace Hopper and Alan Turing. Because of these tumultuous and often times violent beginings, __#`__ was left bereft of true spiritual nourshiment. Yet, after tormented eons, the arrival of Randall Monroe, Richard Stallman, and Donal Trump began to heal the metaphysical wounds of __#`__. This healing has only begun recentely, and it remains to be seen how far __#`__ can go on the road of recovery. It has not been easy, but with the help of xkcd,  St. IGNUcius, and the Donald, __#`__ has gotten to where it is now. At least, I think that's how it happened. It's pretty late, so I might be getting a bit confused.
-
 ## Discussion Rules
  - Do discuss CS, nerdy ideas, or topics related to your life.
  - Don't insult people or be a jerk.
@@ -24,3 +21,6 @@ See [__nkf1__'s site](http://me.zippynk.com/backtick_irc_qdb.txt).
 
 ## IRC Topic
 The topic is settable by anybody but you should not delete the link to the faq in it and should be respectful of other people who change the topic.
+
+## History
+On the eve of creation, __#\`__ sprang into creation, straight from a `git init` by Linus Torvalds. Raised by Charles Babbage and Ada Lovelace, the inhabitants of __#`__ were trained at an early age in the art of bug fighting by Grace Hopper and Alan Turing. Because of these tumultuous and often times violent beginings, __#`__ was left bereft of true spiritual nourshiment. Yet, after tormented eons, the arrival of Randall Monroe, Richard Stallman, and Donal Trump began to heal the metaphysical wounds of __#`__. This healing has only begun recentely, and it remains to be seen how far __#`__ can go on the road of recovery. It has not been easy, but with the help of xkcd,  St. IGNUcius, and the Donald, __#`__ has gotten to where it is now. At least, I think that's how it happened. It's pretty late, so I might be getting a bit confused.
