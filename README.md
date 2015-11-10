@@ -20,7 +20,15 @@ Test bots in __##\`bots__. If you'd like to launch a bot on __#\`__, log in
 with the account (not nickname) `backtickbots` and ask __nickolas360__ for the
 password. If you're using **[pyrcb](https://github.com/nickolas360/pyrcb)**,
 call `IRCBot.password("backtickbots:<password>")` right after calling
-`IRCBot.connect()`.
+`IRCBot.connect()`. The currently active bots are:
+* btquotebot - manages the QuoteDB (see below).
+* espeaker - TTS feed of the channel.
+* gunnmovebot - monitors the old channel for people who don't know that the new one exists.
+* nimbot_ - sends you mail if you missed a message on the channel.
+* shelldon - unlimited power.
+* topicbot - appends to the channel topic.
+* xkbot - turns xkcd://1024 into https://xkcd.com/1024 for easy referencing
+
 
 ## QuoteDB
 See [__nkf1__'s site](http://me.zippynk.com/backtick_irc_qdb.txt).
@@ -42,3 +50,4 @@ road of recovery. It has not been easy, but with the help of xkcd,  St.
 IGNUcius, and the Donald, __#`__ has gotten to where it is now. At least, I
 think that's how it happened. It's pretty late, so I might be getting a bit
 confused.
+
