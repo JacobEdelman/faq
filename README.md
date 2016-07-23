@@ -13,9 +13,10 @@ The three ops (__JacobEdelman__, __tb10__, __nickolas360__) decide matters
 relating to kicking, banning, etc. If two ops disagree, the remaining op can
 cast the deciding vote for the short term, and the members of the channel can
 vote to determine long term decisions. If this happens, a majority of half
-of the voiced or opped members of the channel plus one of said group of
-members will be needed to confirm the decision. We don't want to actually
-have this happen, so ops should work to reach a decision on their own.
+of the voiced or opped members of the channel, rounded down to the nearest
+lower one's place, plus one of said group of members will be needed to confirm
+the decision. We don't want to actually have this happen, so ops should work
+to reach a decision on their own.
 
 ## Bots
 Test bots in __##\`bots__. If you'd like to launch a bot on __#\`__, log in
